@@ -6,7 +6,10 @@ The program shows the whole map including the mines and the exposed numbers
 ## How to use:
 For best use, play your first move (don't worry - you can never die in the first move, if you do click on a mine it will be placed in a different cell).<br>
 Once you chose your first move, run the program.<br>
-X means a prediction of a mine.
+-  **X** means a prediction of a mine
+-  **.** means an exposed cell (not numbered)
+-  **1-8** mean an exposed cell (numbered)
+-  **_** means a safe unexposed cell
 
 #### Examples
 ![game-firstmove](https://user-images.githubusercontent.com/74790003/99887065-f899dd00-2c49-11eb-8046-a8df8195e3a0.png) 
